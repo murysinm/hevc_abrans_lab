@@ -10,8 +10,8 @@
 
 Работа состоит из двух компонентов:
 
-- **[x265_abrans](https://github.com/murysinm/x265_abrans)**: кодер H.265 с ABrANS вместо CABAC.
-- **[ffmpeg_abrans](https://github.com/murysinm/ffmpeg_abrans)**: декодер H.265 с ABrANS вместо CABAC (минимальная сборка FFmpeg).
+- **[x265_abrans]**: кодер H.265 с ABrANS вместо CABAC.
+- **[ffmpeg_abrans]**: декодер H.265 с ABrANS вместо CABAC (минимальная сборка FFmpeg).
 
 ### Принцип работы ABrANS
 
